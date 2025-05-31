@@ -1,3 +1,12 @@
 h1 {
-  color: blue;
+  color: silver;
+}
+body {
+  background: #000;
+  background: linear-gradient(
+    90deg,
+    rgba(0, 0, 0, 1) 0%,
+    rgba(48, 48, 48, 1) 100%,
+    rgba(237, 221, 83, 1) 100%
+  );
 }
